@@ -8,7 +8,7 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
 
 
-- 🔭 I’m currently working on [BAT](https://github.com/tashbaevb/INAI_BAT) and on [OKO](https://github.com/tashbaevb/OKO_Project)
+- 🔭 I’m currently working on [DUD](https://github.com/tashbaevb/dud_project)
 
 - 🌱 I’m currently learning **Java**
 
