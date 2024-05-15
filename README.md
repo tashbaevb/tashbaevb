@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 💬 Ask me about **Java, Python, Spring Boot/Security, DRF, JavaScript(ReactJS) SQL**
+- 💬 Ask me about **Java, Python, Spring Boot/Security, DRF, JavaScript(ReactJS), SQL**
 
 - 📫 How to reach me **tashbaevvb@gmail.com**
 
