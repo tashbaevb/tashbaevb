@@ -8,11 +8,11 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
 
 
-- 🔭 I’m currently working on [DUD](https://github.com/tashbaevb/dud_project)
+- 🔭 I’m currently working on [DUD_Backend](https://github.com/tashbaevb/dud_project) and on [DUD_Frontend] (https://github.com/tashbaevb/DUD_Frontend)
 
 - 🌱 I’m currently learning **Java**
 
-- 💬 Ask me about **Java, Python, Spring Boot, Django REST Framework, SQL**
+- 💬 Ask me about **Java, Python, Spring (Boot, Security, Hibernate), Django REST Framework, JS(ReactJS) SQL**
 
 - 📫 How to reach me **tashbaevvb@gmail.com**
 
